@@ -1,10 +1,10 @@
-token = '123456:everything.is.easier.than.you.think'  # Token from @BotFather
+token = '7353776991:AAFSS-7uRNr3kT71qOwHLQWPI2sisvE5hx8'  # Token from @BotFather
 
-admin_id = 112358  # Edit this to your ID
+admin_id = 5165626274  # Edit this to your ID
 
 parse_mode = "markdown"
 
-card = "your_card"
+card = "5536913870661754"
 # = = = = = = = WALLETS = = = = = = = #
 walletBitcoin = "walletBitcoin"
 walletEthereum = "walletEthereum"
